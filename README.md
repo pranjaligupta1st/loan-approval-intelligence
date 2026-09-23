@@ -39,7 +39,7 @@ Financial institutions need to evaluate loan applications efficiently while mana
 ## Dataset
 
 The project uses a loan approval dataset containing **4,269 loan applications and 13 original variables**.
-
+**Dataset Source:** [Kaggle — Loan Approval Dataset](https://www.kaggle.com/datasets/rohitgrewal/loan-approval-dataset)
 ### Main Variables
 
 - `loan_id`
